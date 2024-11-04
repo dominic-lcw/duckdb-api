@@ -1,0 +1,12 @@
+# main
+duckdb==1.1.2
+
+# disk and file backed cache library
+diskcache       
+
+# server
+socketify
+ujson
+
+# data formats
+pyarrow
